@@ -2,7 +2,9 @@ body {
     background-color: #eeeeee;
     font-family: "Red Hat Display", sans-serif;
     background-image: url("../imagens/banner.jpg");
-    background-size: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     display: flex;
     align-items: center;
     height: 100vh;
